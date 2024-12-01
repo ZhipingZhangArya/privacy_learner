@@ -1,5 +1,5 @@
 # PrivacyLearning
-## PrivacyLearning an interactive privacy learning framework that learns user privacy preference through user edition.
+PrivacyLearning is an interactive privacy learning framework that learns user privacy preference through user edition.
 
 ## Installation
 1. Clone the repository:
